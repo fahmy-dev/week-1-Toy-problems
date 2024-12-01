@@ -1,1 +1,1 @@
-# week-1-Toy-problems
+# Week 1 Code Challenges: Toy Problems
