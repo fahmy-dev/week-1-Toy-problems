@@ -16,7 +16,7 @@ You should see 4 files; 3 .js files and this readme. The challenges are named on
   
 - **Challenge 1** - A calculator used to assign a grade to the inputted marks based on a scale from A to E 
 
-- **Challenge 2** - A speed checker that checks the speed of a vehicle, and penalises them for every 5 Km/h above 80 Km/h  
+- **Challenge 2** - A speed detector that checks the speed of a vehicle, and penalises them for every 5 Km/h above 80 Km/h  
 
 - **Challenge 3** - A net salary calculator that calculates your salary based on the inputted salary by making the necessary deductions (once again, according to specific criteria)
 
