@@ -43,6 +43,9 @@ You should see 4 files; 3 .js files and this readme. The challenges are named on
   
   - More than 12 points accumulated, it will output `License Suspended`
 
+* Challenge 3 (Net Salary Calculator):
+  - 
+
 
 ## License
 I don't have a license tbf. If you decide to steal this, remember God's watching you.
