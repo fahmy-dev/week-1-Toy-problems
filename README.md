@@ -22,12 +22,11 @@ You should see 4 files; 3 .js files and this readme. The challenges are named on
 
 ## How to Run them
 * Challenge 1 (Grade Calculator):
-
  - In line 20, `console.log(calcGrade(20));` replace where there is a 20 with your mark.  
  - Open your VSCode Terminal (Control + shift + \` or Terminal > New Terminal) and type `node challenge1.js`
  - It should output your grade, in this example it will output `E`
 
- *Challenge 2 (Speed Detector):
+* Challenge 2 (Speed Detector):
 
 
 ## License
