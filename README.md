@@ -46,7 +46,7 @@ challenge1.js, challenge2.js, and challenge3.js
    In this example, it will output `9 demerit points, slow down!`
 
 * Challenge 3 (Net Salary Calculator):
-  - In line 136, `console.log(netSalaryCalculator(25000, 3000, "2023-01-10", "yearly"));`<br>replace each of the 3 arguments in this order: `(Salary, benefits, "Date", "monthly/yearly")` with its actual values such as in the example above
+  - In line 139, `console.log(netSalaryCalculator(25000, 3000, "2023-01-10", "yearly"));`<br>replace each of the 3 arguments in this order: `(Salary, benefits, "Date", "monthly/yearly")`<br>with its actual values such as in the example above
   - It will calculate your gross salary, make necessary deductions and print out your net salary  
   - In this example, it will output `1234567`
 
