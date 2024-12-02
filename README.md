@@ -1,5 +1,5 @@
 # Week 1 Code Challenges: Toy Problems
-This project contains challenges, in Javascript, completed for Week 1 of phase 1 - Software Engineering at Moringa School.
+This project contains challenges, in Javascript, completed for Week 1 of Phase 1 - Software Engineering at Moringa School.
 
 ## How to Access it
 1. Open your Terminal and clone this repository
