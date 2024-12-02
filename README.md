@@ -48,7 +48,7 @@ challenge1.js, challenge2.js, and challenge3.js
 * Challenge 3 (Net Salary Calculator):
   - In line 135,<br>`console.log(`Your net salary is Ksh`, netSalaryCalculator(1111000, 5000, "2024-02-10", "yearly"));`<br>replace each of the 3 arguments in this order: `(Salary, benefits, "Date", "monthly/yearly")`<br>with its actual values such as in the example above
   - It will calculate your gross salary, make necessary deductions and print out your net salary  
-  - In this example, it will output `1234567`
+  - In this example, it will output `Your net salary is Ksh 772500`
 
 
 ## License
