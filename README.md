@@ -39,7 +39,7 @@ You should see 4 files; 3 .js files and this readme. The challenges are named on
   - If your speed is below 80, it will output `Ok`, above 80 for every 5 Km/h it will output:  
   `${points} demerit points, slow down!`  
     
-  where `${points}` is the number of points you have accumulated.
+    where `${points}` is the number of points you have accumulated.
   
   - More than 12 points accumulated, it will output `License Suspended`
 
