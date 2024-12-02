@@ -42,7 +42,8 @@ challenge1.js, challenge2.js, and challenge3.js
     
     where `${points}` is the number of points you have accumulated
   
-  - More than 12 points accumulated, it will output `License Suspended`
+  - More than 12 points accumulated, it will output `License Suspended`  
+   In this example, it will output `9 demerit points, slow down!`
 
 * Challenge 3 (Net Salary Calculator):
   - lorem ipsum
