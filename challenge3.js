@@ -31,7 +31,7 @@ const tax = {
         ]
     }
 };
-// Health insurance rates for each period
+// health insurance rates for each period
 const healthInsurance = {
     "2015-april to 2024-september": [
         { min: 0, max: 5999, rate: 150},
@@ -56,7 +56,7 @@ const healthInsurance = {
         {min: 0, max: Infinity, rate: 0.0275}
     ]
 };
-// Pension rates for each period
+// pension rates for each period
 const pension = {
     "up to 2024-january": [
         {min: 0, max: 18000, rate: 0.06}
@@ -82,7 +82,7 @@ function calculateHealthInsurance(salary, date) {
     }
     return 0; // to give me back a value instead of 'undefined'
 }
-// fucntion to calculate the pension rate
+// function to calculate the pension rate
 function calculatePension(salary, date) {
     const dateEffect = new Date(date);
     let pensionRates;
@@ -131,5 +131,5 @@ function netSalaryCalculator(gross, benefits, date, periodType) {
     return netSalary;
 }
 
-
-console.log(netSalaryCalculator(1111000, 5000, "2024-02-10", "yearly"));
+// Print the net salary
+console.log(`Your net salary is Ksh`, netSalaryCalculator(1111000, 5000, "2024-02-10", "yearly"));
