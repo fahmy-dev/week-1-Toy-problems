@@ -23,12 +23,12 @@ You should see 4 files; 3 .js files and this readme. The challenges are named on
 ## How to Run them
 * Challenge 1 (Grade Calculator):
 
-  - In line 20, `console.log(calcGrade(20));` replace where there is 20 with your mark.  
+  - In line 20, `console.log(calcGrade(20));` replace where there is 20 with your mark 
   
   - Open your VsCode Terminal (Control + shift + \` or Terminal > New Terminal) and type;  
   `node challenge1.js` 
   
-  - It should output your grade; in this example, it will output `E`.
+  - It should output your grade; in this example, it will output `E`
 
 * Challenge 2 (Speed Detector):
 
@@ -39,7 +39,7 @@ You should see 4 files; 3 .js files and this readme. The challenges are named on
   - If your speed is below 80, it will output `Ok`, above 80 for every 5 Km/h it will output:  
   `${points} demerit points, slow down!`  
     
-    where `${points}` is the number of points you have accumulated.
+    where `${points}` is the number of points you have accumulated
   
   - More than 12 points accumulated, it will output `License Suspended`
 
