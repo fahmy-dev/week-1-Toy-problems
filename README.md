@@ -2,7 +2,7 @@
 This project contains challenges, in Javascript, completed for Week 1 of phase 1 - Software Engineering at Moringa School.
 
 ## How to Access it
-1. Open your Terminal and clone this repository (preferably fork it beforehand)
+1. Open your Terminal and clone this repository
 - `git clone https://github.com/fahmy-dev/week-1-Toy-problems.git`
 
 2. Move into the directory
