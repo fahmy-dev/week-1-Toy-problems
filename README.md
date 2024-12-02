@@ -52,6 +52,7 @@ challenge1.js, challenge2.js, and challenge3.js
     
     replace each of the 3 arguments in this order: `(Salary, benefits, "Date", "monthly/yearly")` 
     with its actual values such as in the example above
+  - Open your Terminal and type `node challenge3.js`
   - It will calculate your taxable pay, make necessary deductions and print out your net salary  
   - In this example, it will output `Your net salary is Ksh 772500`
 
